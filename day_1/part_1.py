@@ -9,4 +9,4 @@ def day1(filename):
 
     return sum
 
-print(day1("day_1/input_1.txt"))
+print(day1("day_1/input.txt"))
